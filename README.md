@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana-maham" alt="rana-maham" /></a> </p>
 
-- 🔭 I’m currently working on **Upwork with multiple clients**
+- 🔭 I’m currently working on **CMS(Wordpress, Shopify, Webflow), Custom Websites (MERN)**
 
 - 🌱 I’m currently learning **Python, AI and Machine Learning**
 
